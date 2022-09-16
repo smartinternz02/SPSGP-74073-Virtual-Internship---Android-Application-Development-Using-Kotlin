@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Fresh_Basket-master/Fresh_Basket-master/app/src/main/res/drawable-anydpi/ic_action_add.xml" value="0.2265" />
+        <entry key="..\:/Fresh_Basket-master/Fresh_Basket-master/app/src/main/res/drawable/photo.xml" value="0.2265" />
+        <entry key="..\:/Fresh_Basket-master/Fresh_Basket-master/app/src/main/res/font/rokkitt.xml" value="0.284375" />
+        <entry key="..\:/Fresh_Basket-master/Fresh_Basket-master/app/src/main/res/font/rouge_script.xml" value="0.284375" />
+        <entry key="..\:/Fresh_Basket-master/Fresh_Basket-master/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Fresh_Basket-master/Fresh_Basket-master/app/src/main/res/layout/groceryadapter.xml" value="0.25416666666666665" />
+        <entry key="..\:/Fresh_Basket-master/Fresh_Basket-master/app/src/main/res/layout/grocerydialog.xml" value="0.25416666666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
